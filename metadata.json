@@ -1,0 +1,10 @@
+{
+  "name": "SplitLedger",
+  "description": "Multi-mode & voice-enabled expense tracker for Cash, UPI, Card, and split-tender payments.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
